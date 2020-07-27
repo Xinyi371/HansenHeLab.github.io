@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 # Welcome to the Hansen He Laboratory
 
