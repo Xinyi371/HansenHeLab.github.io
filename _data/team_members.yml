@@ -3,5 +3,21 @@
   info: Associate professor
   email: hansenhe@uhnresearch.ca
   number_educ: 2
-  education1: PhD
-  education2: Postdoc Harvard
+  education1: XX
+  education2: XX
+
+# - name: Amelia Navarrete
+#   photo: amelia.jpg
+#   info: Administrative Assistant
+#   email: Amelia.Navarrete@uhnresearch.ca
+#   number_educ: 2
+#   education1: XX
+#   education2: XX
+
+# - name: Nayeema Akhtar
+#   photo: nayeema.jpg
+#   info: Research Technician
+#   email: nayeema.akhtar@uhnresearch.ca
+#   number_educ: 2
+#   education1: XX
+#   education2: XX
