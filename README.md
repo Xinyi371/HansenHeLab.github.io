@@ -1,2 +1,2 @@
 # Hansen He Lab Website
-[Currently under construction](hansenhelab.github.io)
+[Currently under construction](https://hansenhelab.github.io)
