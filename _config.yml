@@ -15,9 +15,29 @@ github_username:  HansenHeLab # DO NOT include the @ character, or else the buil
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-# Build settings
+# Build Settings
+include:
+  - .htaccess
+  - _pages
+
 sass:
   sass_dir: _sass
-include: ['_pages']
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
 kramdown:
   input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
