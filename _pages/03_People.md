@@ -6,7 +6,7 @@ excerpt: "People"
 sitemap: false
 ---
 
-## Principle Investigator
+### Principle Investigator
 {% for member in site.data.principle_investigator %}
 
 <div class="col-sm-12 clearfix">
@@ -20,7 +20,7 @@ sitemap: false
 
 {% endfor %}
 
-## Staff
+### Staff
 {% for member in site.data.staff %}
 
 <div class="col-sm-12 clearfix">
@@ -34,7 +34,7 @@ sitemap: false
 
 {% endfor %}
 
-## Postdoctoral Fellows
+### Postdoctoral Fellows
 {% for member in site.data.postdoctoral_fellows %}
 
 <div class="col-sm-12 clearfix">
@@ -48,7 +48,7 @@ sitemap: false
 
 {% endfor %}
 
-## Visiting Scholars
+### Visiting Scholars
 {% for member in site.data.visiting_scholars %}
 
 <div class="col-sm-12 clearfix">
@@ -62,7 +62,7 @@ sitemap: false
 
 {% endfor %}
 
-## Graduate Students
+### Graduate Students
 {% for member in site.data.graduate_students %}
 
 <div class="col-sm-12 clearfix">
@@ -76,4 +76,4 @@ sitemap: false
 
 {% endfor %}
 
-## Alumni
+### Alumni

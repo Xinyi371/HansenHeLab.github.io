@@ -17,28 +17,28 @@ Job description and qualifications
 
 Qualifications for Computational Postdoctoral Fellow
 
-*Recent Ph.D in bioinformatics and related areas
-*Strong programming skills (Python|Perl|C|C++|Java|R)
-*Knowledge of epigenetics, genomics, genetics and cancer biology is an asset
-*Background in next generation sequencing data analysis is an asset
-*Demonstrated excellent publication record of scientific achievement
-*Excellent verbal and written communication skills
-*Strong scientific writing and presentation skill
-*Demonstrated record of interdisciplinary collaboration
-*Self-motivated, independent and creative
+* Recent Ph.D in bioinformatics and related areas
+* Strong programming skills (Python|Perl|C|C++|Java|R)
+* Knowledge of epigenetics, genomics, genetics and cancer biology is an asset
+* Background in next generation sequencing data analysis is an asset
+* Demonstrated excellent publication record of scientific achievement
+* Excellent verbal and written communication skills
+* Strong scientific writing and presentation skill
+* Demonstrated record of interdisciplinary collaboration
+* Self-motivated, independent and creative
 
 
 Qualifications for Experimental Postdoctoral Fellow
 
-*Recent Ph.D in molecular biology/cancer biology or related areas
-*Knowledge of epigenetics, genomics and genetics
-*Background in noncoding RNA is an asset
-*Experience in genome-wide functional screening (shRNA, CRISPR etc) is a definite asset
-*Demonstrated excellent publication record of scientific achievement
-*Excellent verbal and written communication skills
-*Strong scientific writing and presentation skill
-*Demonstrated record of interdisciplinary collaboration
-*Self-motivated, independent and creative
+* Recent Ph.D in molecular biology/cancer biology or related areas
+* Knowledge of epigenetics, genomics and genetics
+* Background in noncoding RNA is an asset
+* Experience in genome-wide functional screening (shRNA, CRISPR etc) is a definite asset
+* Demonstrated excellent publication record of scientific achievement
+* Excellent verbal and written communication skills
+* Strong scientific writing and presentation skill
+* Demonstrated record of interdisciplinary collaboration
+* Self-motivated, independent and creative
 
 
 For consideration, please directly send a CV, a brief statement of scientific/research interests, contact information, at least two references and start date availability to: hansenhe@uhnresearch.ca
