@@ -1,0 +1,23 @@
+- name: Sujun Chen
+  photo: sujun.jpg
+  info: PhD Candidate
+  email: sujun.chen@mail.utoronto.ca
+  description: Sujun recieved her MSc degree in bioinformatics from Tongji University before coming to the Department of Medical Biophysics. Her research is focused on circular RNA detection and regulation.
+
+- name: Peiran Su
+  photo: peiran.jpg
+  info: PhD Candidate
+  email: peiran.su@mail.utoronto.ca
+  description: Peiran received his Honours of Bachelor of Science degree at University of Toronto in Biochemistry. He is now a M. Sc. candidate in the Department of Medical Biophysics. Peiran is co-supervised by Dr. Ming Tsao. His research is focused on extending the CRISPR screens into SCLC PDX models.
+
+- name: Mona Teng
+  photo: mona.jpeg
+  info: PhD Candidate
+  email: mona.teng@mail.utoronto.ca
+  description : Mona obtained her Honours Bachelor of Science at University of Toronto with a specialist in Laboratory Medicine and Pathobiology and a major in Biochemistry. She is currently a masters student in the department of Medical Biophysics. Her current project focuses on characterizing circular RNAs implicated in neuroendocrine prostate cancer. Mona is also co-supervised by Dr. Brian Raught to develop a new method for elucidating RNA-protein interactome.
+
+- name: Helen Zhu
+  photo: helen.jpg
+  info: PhD Candidate
+  email: helen.zhu@mail.utoronto.ca
+  description : Helen received her undergraduate degree from McMaster University in the BHSc (Hons) program with a specialization in Biochemistry and a minor in Mathematics. She is currently a PhD student in the Department of Medical Biophysics. Her current project focuses on M6A modifications in cancer.

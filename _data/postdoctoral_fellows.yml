@@ -1,0 +1,23 @@
+- name: Shiyan Wang
+  photo: shiyan.jpeg
+  info: Postdoctoral Fellow
+  email: wangshiyan9885@hotmail.com
+  description: Shiyan got her PhD degree at Medical Sciences at Department of Medicine, Chinese University of Hongkong in 2011. After that she worked as a lecturer in University of Science & Technology Beijing for about two years and then became a postdoctoral fellow at Research Laboratory of Institute of Digestive Disease, The Chinese University of Hongkong since 2014. She have been focusing on identifying novel tumor suppressor genes epigenetically down-regulated in gastrointestinal cancer progression and elucidating the function of these genes and its clinical significance. In 2016 she joined Prof. Hansen He’s lab, at the Department of Medical Biophysics, University of Toronto. Her current goal is to elucidate the transcriptome disorder caused by m6A RNA modification in human cancers by m6A profiling analysis and identify novel oncogenes/tumor suppressor genes dysregulated by m6A RNA modification.
+
+- name: Fraser Soares
+  photo: fraser.jpg
+  info: Postdoctoral Fellow
+  email: fraser.soares@utoronto.ca
+  description: Fraser obtained his PhD at the University of Toronto in the Department of Laboratory Medicine and Pathobiology. His PhD work examined the role of cytosolic innate immune receptors (NOD-like receptors) in cell death and tumorigenesis.  His current research aims to identify driver long non-coding RNAs(lncRNAs) in cancer malignancies, by performing genetic screens using the CRISPR/Cas9 genome-editing system. This project will provide a platform to rapidly identify functional lncRNAs in cancer, which may lead to the advancement of biomarker discovery and new therapeutic intervention. Fraser is also a part-time Lecturer at the local College where he teaches Biology & Chemistry related courses.
+
+- name: Yong Zeng
+  photo: yong.jpg
+  info: Postdoctoral Fellow
+  email: zy_lol@outlook.com
+  description: Yong obtained his PhD degree in Engineering at Xiamen University, China, in 2016. During his doctoral study, his research focus was to elucidate the genotype-phenotype relationships using computational approaches, and he also had been a visiting researcher at Texas A&M University, USA, for one year. He joined in Dr. He’s lab at the beginning of December, 2016, and is working on m6A profiling analysis in human cancer cells. His long term goal is to employ multi-omics data to help uncovering the molecular mechanisms in cancer developing.
+
+- name: Xin Xu
+  photo: xin.jpg
+  info: Postdoctoral Fellow
+  email: xin.xu.bio@gmail.com
+  description: Xin completed his first postdoc program at the Institute of Microbiology, Chinese Academy of Sciences. After that, he joined He lab in October 2016. Currently, he is working on identifying functional circRNA in prostate cancer, and aim to provide new improved biomarkers and therapy targets that will lead to better diagnosis and treatment of prostate cancer.

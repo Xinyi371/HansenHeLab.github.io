@@ -1,0 +1,17 @@
+- name: Wenbin Ye
+  photo: wenbin.jpg
+  info: Visiting Scholar
+  email:
+  description: I am Wenbin Ye, a PhD candidate majoring in Systems Engineering at Xiamen University, China. I started my research in bioinformatics from 2015, and mainly focus on the development of bioinformatics algorithms/tools and data mining of large-scale genomics data. I joined Dr. He’ s lab as a visiting PhD student in September, 2019.
+
+- name: Moliang Chen
+  photo: moliang.png
+  info: Visiting Scholar
+  email: chengmolia@gmail.com
+  description: Moliang is a PhD candidate in Engineering from Xiamen University, China. His research focuses on data mining and algorithm design in bioinformation. He joined in Dr. He’s lab as a visiting student in Jan. 2019, and works on circRNA translation and shRNA design in the laboratory.
+
+- name: Yin Liu
+  photo: yin.jpg
+  info: Visiting Scholar
+  email: liuyin@tongji.edu.cn
+  description: Yin received his PhD degree from Tongji University in 2016. His PhD work integrated epigenetic features with nascent transcription in human cancer cell cycle stages, and had been a visiting student at Dana Farber Cancer Institute from 2012-2014. He is a doctor at Shanghai Pulmonary Hospital, Department of Laboratory Medicine in China. He is also an instructor and postgraduate supervisor at Tongji University, School of Medicine. He is current working on m6A profiling in nascent transcription in prostate cancer.
