@@ -2,13 +2,13 @@
   headline: "Miranda will leave us after this summer to pursue a career in dentistry at Western University. Congrats and stay in touch!"
 
 - date: 12/03/2019
-  headline: "Prostate Cancer Canada interviewed Hansen recently, read here for their featured article about our circRNA work: Hidden clue in blood could help fight aggressive prostate cancer."
+  headline: "Prostate Cancer Canada interviewed Hansen recently, read <a href='https://www.prostatecancer.ca/Prostate-Cancer-Canada-Blog/Mars-2019/Hidden-clue-in-blood-could-help-fight-aggressive-p'>here</a> for their featured article about our circRNA work: Hidden clue in blood could help fight aggressive prostate cancer."
 
 - date: 07/02/2019
-  headline: "circRNA story is online at Cell. Read here to learn more about this circular genetic material. See also a news report on the work at UHN: Cancer Research in the Loop"
+  headline: "circRNA story is online at Cell. Read <a href='https://www.cell.com/cell/fulltext/S0092-8674(19)30058-3'>here</a> to learn more about this circular genetic material. See also <a href='http://www.uhnresearch.ca/news/cancer-research-loop'>a news report</a> on the work at UHN: Cancer Research in the Loop"
 
 - date: 07/02/2019
-  headline: "Haiyang’s ONECUT2 paper was online at Nature Communications, congrats! Read more here."
+  headline: "Haiyang’s ONECUT2 paper was online at Nature Communications, congrats! Read more <a href='https://www.nature.com/articles/s41467-018-08133-6'>here</a>."
 
 - date: 04/12/2018
   headline: "The circRNA story was accepted in principle at Cell. Congrats!"
@@ -20,7 +20,7 @@
   headline: "Haiyang’s ONECUT2 story got accepted at Nature Communication. Congrats!"
 
 - date: 04/12/2018
-  headline: "Dr. He is among the three recipients for the $4M research grant from Movember Foundation. Read more here."
+  headline: "Dr. He is among the three recipients for the $4M research grant from Movember Foundation. Read more <a href='https://www.prostatecancer.ca/In-The-News/Foundation-News-Releases/Prostate-Cancer-Canada-and-the-Movember-Founda-(1)'>here</a>."
 
 - date: 04/12/2018
   headline: "Fraser received Keystone Symposia Future of Science Fund scholarship, congrats!"
@@ -29,10 +29,10 @@
   headline: "Sujun got the chance to present her work at RiboClub annual meeting and received the MBP and RiboClub travel award to sponsor the trip to Montreal, congrats!"
 
 - date: 18/09/2018
-  headline: "Sujun was awarded a scholarship from the Terry Fox Fundation, Strategic Training in Transdisciplinary Radiation Science for the 21st Century (STARS21) Program. Congrats! Learn more about the program here."
+  headline: "Sujun was awarded a scholarship from the Terry Fox Fundation, Strategic Training in Transdisciplinary Radiation Science for the 21st Century (STARS21) Program. Congrats! Learn more about the program <a href='https://www.radonc.utoronto.ca/stars21'>here</a>."
 
 - date: 18/09/2018
-  headline: "The refined protocol for m6A analysis with with low input materials was online at Plos Biology. Congrats! Learn more about this exciting technology here: Refined RIP-seq protocol"
+  headline: "The refined protocol for m6A analysis with with low input materials was online at Plos Biology. Congrats! Learn more about this exciting technology here: <a href='https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006092'>Refined RIP-seq protocol</a>"
 
 - date: 17/08/2018
   headline: "Jessica received OGS and MBP Excellence OSOTF, congratulations!"
@@ -41,31 +41,34 @@
   headline: "Manuscript on m6A methodology has been accepted for publication at PLOS Biology. Congrats!"
 
 - date: 01/08/2018
-  headline: "The PCAT19 story has been recommended in F1000Prime as being of special significance in its field by F1000 Faculty Member Michael Zhang."
+  headline: "The PCAT19 story has been recommended in F1000Prime as being of special significance in its field by <a href='https://facultyopinions.com/prime/thefaculty/member/1349950427909723/contact?utm_medium=email&utm_source=prime_ypp'>F1000 Faculty Member Michael Zhang</a>."
 
 - date: 28/07/2018
-  headline: "He lab contributes to three stories published on this same issue of Cell."
+  headline: "He lab contributes to three stories published on this <a href='https://www.cell.com/cell/issue?pii=S0092-8674(17)X0016-0'>same issue of Cell</a>."
 
 - date: 28/07/2018
-  headline: "A preview summarize and comment on the PCAT19 story, check it here."
+  headline: "A preview summarize and comment on the PCAT19 story, check it <a href='https://www.cell.com/cell/fulltext/S0092-8674(18)30908-5'>here</a>."
 
 - date: 22/11/2018
-  headline: "Check out this video from UHN newsroom to get a deeper understanding of the PCAT19 story."
+  headline: "Check out this <a href='https://www.uhn.ca/corporate/News/Pages/Like_butterfly_wings.aspx'>video</a> from UHN newsroom to get a deeper understanding of the PCAT19 story."
 
 - date: 22/07/2018
   headline: "He lab received a project grant funding from CIHR to explore the function of ONECUT2 in neuroendocrine prostate cancer. Congrats!"
 
 - date: 19/07/2018
-  headline: "Two stories one day — congrats to Hansen for another online Cell paper. Click here to learn more about the genome of metastatic prostate cancer."
+  headline: "Two stories one day — congrats to Hansen for another online Cell paper. Click <a href='https://www.cell.com/cell/fulltext/S0092-8674(18)30842-0'>here</a> to learn more about the genome of metastatic prostate cancer."
 
 - date: 19/07/2018
-  headline: "The recent study by Hua(Tony) et al. has been published online at cell. Read more here to learn how ‘Risk SNP-mediated promoter-enhancer switching drives prostate cancer through PCAT19’."
+  headline: "The recent study by Hua(Tony) et al. has been published online at cell. Read more <a href='https://www.cell.com/cell/fulltext/S0092-8674(18)30739-6'>here</a> to learn how ‘Risk SNP-mediated promoter-enhancer switching drives prostate cancer through PCAT19’."
 
 - date: 26/06/2018
   headline: "Yong has received a Princess Margaret Postdoctoral Fellowship – Hold’em for Life Fellowship in Cancer Research. Congratulations!"
 
+- date: 21/06/2018
+  headline: "Congratulations to Sujun and Hansen on the Cell paper. Click <a href='https://www.cell.com/cell/fulltext/S0092-8674(18)30715-3'>here</a> to learn more about the story of LSD1 in affecting cancer immunotherapy."
+
 - date: 20/06/2018
-  headline: "The lab gathered for lunch to congratulate Tony on the PCAT19 paper. Read more here: PCAT19 paper."
+  headline: "The lab gathered for lunch to congratulate Tony on the PCAT19 paper. Read more here: <a href='https://www.cell.com/cell/fulltext/S0092-8674(18)30739-6'>PCAT19 paper</a>."
 
 - date: 19/06/2018
   headline: "The fellowship sponsors attending to the 2018 RiboClub Annual Meeting. Good luck and have fun."
@@ -74,7 +77,7 @@
   headline: "Congratulations to Tony on getting the PCAT19 paper accepted at Cell. The lab is going to celebrate tomorrow at Bangkok garden. Stay posted for follow-up updates!"
 
 - date: 19/06/2018
-  headline: "He lab joined the Plaid For Dad day to help fight against prostate cancer. Learn more about the activities here: PlaidForDad We also wish all the dads happy father’s day and healthy forever!"
+  headline: "He lab joined the Plaid For Dad day to help fight against prostate cancer. Learn more about the activities here: <a href='https://www.plaidfordad.ca/'>PlaidForDad We also wish all the dads happy father’s day and healthy forever!</a>"
 
 - date: 27/05/2018
   headline: "Dr. Hansen He has been promoted to Senior Scientist. Congratulations!"
