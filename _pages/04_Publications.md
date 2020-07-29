@@ -6,4 +6,13 @@ excerpt: "Publications"
 sitemap: false
 ---
 
-# Publications
+# Select Publications
+
+<h4> Visit our <a href='https://scholar.google.ca/citations?user=XQI8DIEAAAAJ&hl=en&oi=ao'> Google Scholar </a> for an updated list. </h4>
+
+{% for publi in site.data.publications %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
