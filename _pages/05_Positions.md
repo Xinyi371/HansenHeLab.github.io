@@ -18,7 +18,7 @@ Job description and qualifications
 Qualifications for Computational Postdoctoral Fellow
 
 * Recent Ph.D in bioinformatics and related areas
-* Strong programming skills (Python|Perl|C|C++|Java|R)
+* Strong programming skills (Python, Perl, C, C++, Java, R)
 * Knowledge of epigenetics, genomics, genetics and cancer biology is an asset
 * Background in next generation sequencing data analysis is an asset
 * Demonstrated excellent publication record of scientific achievement
