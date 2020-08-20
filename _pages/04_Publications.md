@@ -12,7 +12,7 @@ sitemap: false
 
 {% for publi in site.data.publications %}
 
-  {{ publi.title }} <br />
+  <b>{{ publi.title }}</b> <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
