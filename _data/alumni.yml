@@ -1,0 +1,89 @@
+- name: Musadeqque Ahmed
+  photo: musa.jpg
+  info: Postdoctoral Fellow
+  current: "Staff Scientist, Roche"
+
+- name: Yibo Xue
+  photo: silhouette.jpg
+  info: Postdoctoral Fellow
+  current: "Postdoctoral Fellow"
+
+- name: Haiyang Guo
+  photo: haiyang.jpeg
+  info: Postdoctoral Fellow
+  current: "Assistant Professor, Shandong University"
+
+- name: Zhao Wei
+  photo: weizhao.png
+  info: Visiting Scholar
+  current: "Clinical Laboratory Technician, Shandong University"
+
+- name: Tony Hua
+  photo: tony.jpeg
+  info: PhD Student
+  current: "Postdoctoral Fellow at UCSF"
+
+- name: Miranda Wang
+  photo: miranda.jpg
+  info: Staff
+  current: "Dentistry at Western"
+
+- name: Jennifer Lu
+  photo: jenniferlu.jpeg
+  info: Volunteer
+  current: "Undergraduate Student at U of T"
+
+- name: Christine Sarah Poon
+  photo: christinesarahpoon.jpg
+  info: Summer Student, 2014
+  current: "BMSc at University of Western Ontario"
+
+- name: Jens Langstein
+  photo: jenslangstein.jpg
+  info: Exchange student, Sept-Dec 2014
+  current: "Graduate student, German Cancer Research Centre and National Center for Tumor Diseases, Heidelberg Germany"
+
+- name: Urooj Sheikh
+  photo: uroojsheikh.jpg
+  info: Summer student, 2015
+  current: "BSc student in University of Toronto-Mississauga"
+
+- name: Yuchen Li
+  photo: yuchenli.jpg
+  info: Summer student, 2015
+  current: "Medical student, University of Toronto"
+
+- name: Catherine Lu
+  photo: silhouette.jpg
+  info: Summer student, 2015, 2016
+  current: "Medical Student"
+
+- name: Yi Liang
+  photo: yiliang.jpeg
+  info: Postdoctoral Research Fellow, 2016
+  current: "Research associate, TMDT"
+
+- name: Tran Nguyen
+  photo: trannguyen.jpg
+  info: Intern, 2016
+  current: "MSc student, McGill University"
+
+- name: Xiaotong Yang
+  photo: xiaotongyang.jpg
+  info: Research Student, 2016
+  current: "BSc student, University of Toronto"
+
+- name: Xutao Wang
+  photo: xutaowang.jpg
+  info: Research Student, 2017
+  current: "MSc student, Harvard University"
+
+- name: Xue Bai
+  photo: xuebai.jpg
+  info: Visiting scholar, 2017
+  current: "Director of Forensic Medicine, Ministry of public security China"
+
+- name: Yuzhe Zhang
+  photo: yuzhezhang.jpeg
+  info: PhD candidate, 2017
+  current: "Lecturer, University of Dali"
