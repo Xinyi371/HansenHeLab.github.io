@@ -7,7 +7,8 @@ title: Hansen He Lab
 description: > # this means to ignore newlines until "baseurl:"
   An Epigenetics Lab based in Toronto, Canada
 baseurl: ''
-url: 'http://localhost:4000'
+url: ''
+# 'http://localhost:4000'
 # url: 'http://hansenhelab.github.io'
 # social links
 twitter_username: hansenhe7 # DO NOT include the @ character, or else the build will fail!
