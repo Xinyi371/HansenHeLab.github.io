@@ -22,16 +22,10 @@
     url:
     display: "Gastroenterology. 2020. PMID: 33217448. IF=20.88"
 
-- title: RNA m6A methyltransferase METTL3 regulates colorectal tumorigenesis by restraining mTORC1 activity
-  authors: Chen H, Gao S, Liu W, Wong C, Wu JF, Wu JT, Liu D, Kang W, Zhai J, Sung J, Han J, He H, Yu J
-  link:
-    url: https://link.springer.com/article/10.1007/s13238-020-00786-8
-    display: "Gastroenterology. 2020. PMID: 33217448. IF=20.88"
-
 - title: "Pioneer of prostate cancer: past, present and the future of FOXA1"
   authors: Teng M*, Zhou S*, Cai C, Lupien M#, He H#.
   link:
-    url:
+    url: https://link.springer.com/article/10.1007/s13238-020-00786-8
     display: "Protein & Cell. 2020. PMID: 32946061. IF=10.16"
 
 - title: Haploinsufficiency of RREB1 causes a Noonan-like RASopathy via epigenetic reprogramming of RAS-MAPK pathway genes
