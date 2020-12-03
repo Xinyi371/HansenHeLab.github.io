@@ -14,7 +14,7 @@ sitemap: false
   <ul style="overflow: hidden">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br> {{ member.info2 }}<br> {{ member.info3 }}<br> email: <{{ member.email }}></i>
-  <h5> {{ member.description }} </h5>
+  <h5> {{ member.description }} <br> {{ member.description2 }} <br> {{ member.description3 }} </h5>
   </ul>
 </div>
 
