@@ -24,7 +24,7 @@ sitemap: false
       <img src="{{ site.url }}{{ site.baseurl }}/images/fun/Selfie2020.jpg" alt="Beach">
       <div class="carousel-caption">
         <p>Beach Party</p>
-        <p>Celebrating Jessica's Medical School Acceptance and Musa's New Job</p>
+        <p>Celebrating Jessica's Medical School Acceptance & Musa's New Job</p>
       </div>
     </div>
 
