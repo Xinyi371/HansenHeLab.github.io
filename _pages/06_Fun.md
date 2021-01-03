@@ -1,5 +1,5 @@
 ---
-layout: gridlay
+layout: piclay
 title: Fun
 permalink: /fun/
 excerpt: "Fun"
