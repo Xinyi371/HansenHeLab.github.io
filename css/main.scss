@@ -82,7 +82,7 @@ firstp {
 
 
 /* Carousel */
-.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+.carousel>.carousel-inner>.item>img, .carousel>.carousel-inner>.item>a>img {
         display:inline-block  !important;
         height: 500px;
         max-height: 500px;
@@ -93,10 +93,3 @@ firstp {
 .item{
   text-align:center;
 }
-/* .carousel {
-    border-radius: 3px 3px 3px 3px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
-} */
