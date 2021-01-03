@@ -1,2 +1,4 @@
 # Hansen He Lab Website
-[Currently under construction](https://hansenhelab.github.io)
+[Check out our website!](https://hansenhelab.github.io)
+
+For current lab members, instructions on how to [modify the website](https://hansenhelab.github.io/tutorial)
