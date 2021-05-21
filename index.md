@@ -19,7 +19,7 @@ The He laboratory applies a variety of genomic, epigenomic experimental and comp
 <br>101 College St
 <br>Toronto, ON M5G 1L7
 <br>Phone: 416 581 7736
-<br>Email: hansenhe@uhnresearch.ca
+<br>Email: Hansen.He@uhnresearch.ca
 </div>
 
 <div class="col-sm-6 clearfix">
