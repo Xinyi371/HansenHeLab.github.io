@@ -1,15 +1,3 @@
-- name: Wenbin Ye
-  photo: wenbin.jpg
-  info: Visiting Scholar
-  email:
-  description: I am Wenbin Ye, a PhD candidate majoring in Systems Engineering at Xiamen University, China. I started my research in bioinformatics from 2015, and mainly focus on the development of bioinformatics algorithms/tools and data mining of large-scale genomics data. I joined Dr. He’ s lab as a visiting PhD student in September, 2019.
-
-- name: Moliang Chen
-  photo: moliang.png
-  info: Visiting Scholar
-  email: chengmolia@gmail.com
-  description: Moliang is a PhD candidate in Engineering from Xiamen University, China. His research focuses on data mining and algorithm design in bioinformation. He joined in Dr. He’s lab as a visiting student in Jan. 2019, and works on circRNA translation and shRNA design in the laboratory.
-
 - name: Yin Liu
   photo: yin.jpg
   info: Visiting Scholar
