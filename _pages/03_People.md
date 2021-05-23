@@ -76,6 +76,19 @@ sitemap: false
 
 {% endfor %}
 
+### Summer Students
+{% for member in site.data.summer_students %}
+
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <ul style="overflow: hidden">
+  <h4>{{ member.name }}</h4>
+  <h5> {{ member.description }} </h5>
+  </ul>
+</div>
+
+{% endfor %}
+
 ### Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
