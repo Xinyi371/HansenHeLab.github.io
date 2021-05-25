@@ -1,3 +1,8 @@
 - name: Kashif Daud
   photo: kashif.jpeg
   description: Kashif has completed his undergraduate degree in Life Sciences at McMaster University.  His project focuses on reviewing both existing and new RNA therapies that are being used to treat diseases such as cancer.
+
+- name: Xinyi Zhang
+  photo: xinyi.jpg
+  email: charliexinyi.zhang@mail.utoronto.ca
+  description: Xinyi is a fourth-year undergraduate student at University of Toronto specializing in bioinformatics. Her project is on identifying the genetic and genomic determinants of circular RNA formation.
