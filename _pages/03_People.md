@@ -83,7 +83,7 @@ sitemap: false
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <ul style="overflow: hidden">
   <h4>{{ member.name }}</h4>
-  <i> {{ member.email }} </i>
+  <i>{{ member.info }}<br> {{ member.email }}</i>
   <h5> {{ member.description }} </h5>
   </ul>
 </div>
