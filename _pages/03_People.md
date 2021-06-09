@@ -13,7 +13,7 @@ sitemap: false
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <ul style="overflow: hidden">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br> {{ member.info2 }}<br> {{ member.info3 }}<br> email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br> {{ member.info2 }}<br> {{ member.info3 }}<br> {{ member.email }} </i>
   <h5> {{ member.description }} <br><br> {{ member.description2 }} <br><br> {{ member.description3 }} </h5>
   </ul>
 </div>
