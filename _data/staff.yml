@@ -2,10 +2,16 @@
   photo: amelia.jpg
   info: Administrative Assistant
   email: Amelia.Navarrete@uhnresearch.ca
-  description: 
+  description:
 
 - name: Nayeema Akhtar
   photo: nayeema.jpg
   info: Research Technician
   email: nayeema.akhtar@uhnresearch.ca
   description : Nayeema has a MSc in Biochemistry and Molecular Biology from the University of Dhaka, with a focus on Immunology and vaccine development. She is currently working as a Research Technician at He Lab.
+
+- name: Dave Guo
+  photo: dave.jpg
+  info: Research Technician
+  email:
+  description : Dave obtained his MSc at the University of Toronto. His work focused on the impact of air pollution on lung infections in cystic fibrosis using mouse models. He is currently working as a research technician in the lab.
