@@ -1,3 +1,23 @@
+- name: Kashif Daud
+  photo: kashif.jpeg
+  info: Summer Student
+  current: 
+
+- name: Xinyi Zhang
+  photo: xinyi.jpg
+  info: Summer Student
+  current:
+
+- name: Nicholas Lo
+  photo: nicholas.jpg
+  info: Summer Student
+  current: Student at Western University
+
+- name: Yin Liu
+  photo: yin.jpg
+  info: Visiting Scholar
+  current: "Physician"
+
 - name: Wenbin Ye
   photo: wenbin.jpg
   info: Visiting Scholar
