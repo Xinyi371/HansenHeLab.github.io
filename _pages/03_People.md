@@ -89,7 +89,7 @@ sitemap: false
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Current Position: {{ member.current }} <br> Email: {{member.email}}</i>
+  <i>{{ member.info }}<br>Current Position: {{ member.current }}</i>
   <ul style="overflow: hidden">
 
   </ul>

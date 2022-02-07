@@ -1,7 +1,11 @@
+- name: Yong Zeng
+  photo: yong.jpg
+  info: Postdoctoral Fellow
+  current: "Affiliate Scientist at PMCC"
+
 - name: Fraser Soares
   photo: fraser.jpg
   info: Postdoctoral Fellow
-  email: "fraser.soares@utoronto.ca"
   current:
 
 - name: Kashif Daud
